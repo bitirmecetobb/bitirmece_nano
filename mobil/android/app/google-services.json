@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874593886568",
+    "project_id": "bitirmece-74b65",
+    "storage_bucket": "bitirmece-74b65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874593886568:android:8f52ee74e61d80b7f836dd",
+        "android_client_info": {
+          "package_name": "com.example.bitirmece_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7_2rR8cQlsYVsXEuJ_WXUHCa4a79kPiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
